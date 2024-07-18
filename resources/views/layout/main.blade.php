@@ -15,6 +15,8 @@
     <link rel="stylesheet" href="{{ asset('lte/plugins/overlayScrollbars/css/OverlayScrollbars.min.css') }}">
     <!-- Theme style -->
     <link rel="stylesheet" href="{{ asset('lte/dist/css/adminlte.min.css') }}">
+    {{-- Icon --}}
+    <link rel="shortcut icon" href="{{ asset('assets/image/KKI_LOGO.png') }}" type="image/x-icon">
 </head>
 
 <body class="hold-transition dark-mode sidebar-mini layout-fixed layout-navbar-fixed layout-footer-fixed">

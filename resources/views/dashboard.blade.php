@@ -10,7 +10,7 @@
                     </div><!-- /.col -->
                     <div class="col-sm-6">
                         <ol class="breadcrumb float-sm-right">
-                            <li class="breadcrumb-item"><a href="#">Home</a></li>
+                            <li class="breadcrumb-item"><a href="/">Home</a></li>
                             <li class="breadcrumb-item active">Dashboard</li>
                         </ol>
                     </div><!-- /.col -->
@@ -25,7 +25,7 @@
                 <div class="row">
                     <div class="col-12 col-sm-6 col-md-3">
                         <div class="info-box">
-                            <span class="info-box-icon bg-info elevation-1"><i class="nav-icon fas fa-book"></i></span>
+                            <span class="info-box-icon bg-info elevation-1"><i class="nav-icon fas fa-newspaper"></i></span>
 
                             <div class="info-box-content">
                                 <span class="info-box-text">Berita</span>
@@ -40,10 +40,10 @@
                     <!-- /.col -->
                     <div class="col-12 col-sm-6 col-md-3">
                         <div class="info-box mb-3">
-                            <span class="info-box-icon bg-danger elevation-1"><i class="fas fa-thumbs-up"></i></span>
+                            <span class="info-box-icon bg-success elevation-1"><i class="fas fa-file"></i></span>
 
                             <div class="info-box-content">
-                                <span class="info-box-text">Likes</span>
+                                <span class="info-box-text">Halaman</span>
                                 <span class="info-box-number">41,410</span>
                             </div>
                             <!-- /.info-box-content -->
@@ -57,11 +57,11 @@
 
                     <div class="col-12 col-sm-6 col-md-3">
                         <div class="info-box mb-3">
-                            <span class="info-box-icon bg-success elevation-1"><i class="fas fa-shopping-cart"></i></span>
+                            <span class="info-box-icon bg-warning elevation-1"><i class="fas fa-calendar"></i></span>
 
                             <div class="info-box-content">
-                                <span class="info-box-text">Sales</span>
-                                <span class="info-box-number">760</span>
+                                <span class="info-box-text">Agenda</span>
+                                <span class="info-box-number">3</span>
                             </div>
                             <!-- /.info-box-content -->
                         </div>
@@ -70,7 +70,7 @@
                     <!-- /.col -->
                     <div class="col-12 col-sm-6 col-md-3">
                         <div class="info-box mb-3">
-                            <span class="info-box-icon bg-warning elevation-1"><i class="fas fa-users"></i></span>
+                            <span class="info-box-icon bg-danger elevation-1"><i class="fas fa-users"></i></span>
 
                             <div class="info-box-content">
                                 <span class="info-box-text">Users</span>
